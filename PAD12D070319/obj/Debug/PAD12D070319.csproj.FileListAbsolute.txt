@@ -1,0 +1,6 @@
+c:\users\aluno.naverecife\documents\visual studio 2015\Projects\PAD12D070319\PAD12D070319\bin\Debug\PAD12D070319.exe.config
+c:\users\aluno.naverecife\documents\visual studio 2015\Projects\PAD12D070319\PAD12D070319\bin\Debug\PAD12D070319.exe
+c:\users\aluno.naverecife\documents\visual studio 2015\Projects\PAD12D070319\PAD12D070319\bin\Debug\PAD12D070319.pdb
+c:\users\aluno.naverecife\documents\visual studio 2015\Projects\PAD12D070319\PAD12D070319\obj\Debug\PAD12D070319.csprojResolveAssemblyReference.cache
+c:\users\aluno.naverecife\documents\visual studio 2015\Projects\PAD12D070319\PAD12D070319\obj\Debug\PAD12D070319.exe
+c:\users\aluno.naverecife\documents\visual studio 2015\Projects\PAD12D070319\PAD12D070319\obj\Debug\PAD12D070319.pdb
